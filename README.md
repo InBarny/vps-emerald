@@ -12,7 +12,6 @@
 - Управление клиентами через панель 3X-UI
 - Автообновление через GitHub Releases
 - Тёмная glassmorphism-тема, адаптивный интерфейс
-- Анимированный воксельный кристалл и кастомные painter'ы
 
 ## Стек
 
@@ -25,13 +24,6 @@
 - http, package_info_plus, crypto, path_provider
 
 ## Скриншоты
-
-_Добавь сюда 2–4 скриншота экранов._
-
-## Быстрый старт
-
-1. Установи Flutter.
-2. Склонируй репозиторий:
-   ```bash
-   git clone https://github.com/InBarny/project.git
-   cd project
+<img width="1263" height="714" alt="vps-emerald" src="https://github.com/user-attachments/assets/be98b2b0-55cd-4a79-94ba-8c39a65451e0" />
+<img width="1331" height="834" alt="vps-emerald2" src="https://github.com/user-attachments/assets/48adb659-cb69-41c7-b3f9-06877546c7e1" />
+<img width="1483" height="1019" alt="vps-emerald3" src="https://github.com/user-attachments/assets/25c5b8e0-262c-4c08-812f-aad113aae9cd" />
